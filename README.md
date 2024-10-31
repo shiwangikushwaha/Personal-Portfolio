@@ -10,3 +10,9 @@ About and Skills Sections: Information about my background, professional skills,
 
 Users can reach out directly via a built-in, functional contact form.
 Technologies Used: HTML, CSS, JavaScript 
+
+
+
+
+https://github.com/user-attachments/assets/2b7bd9c7-e7f5-4bc4-9025-f2fd0f2b35e4
+
